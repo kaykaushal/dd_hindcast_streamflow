@@ -1,0 +1,7 @@
+# Ignore folders
+code_execution/data/
+water-supply-forecast-rodeo-runtimeanother_folder_to_ignore/
+
+# Ignore file formats
+*.nc
+*.csv
